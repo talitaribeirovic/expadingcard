@@ -74,9 +74,12 @@
 
 <h3> 💻 Desktop </h3>
 
+![setTimeOut10](https://github.com/talitaribeirovic/expadingcard/assets/108439890/64879653-7b47-4137-920a-469a292f44b6)
 
 
 
 <h3> 📱 Mobile</h3>
 
+
+![mobile (1)](https://github.com/talitaribeirovic/expadingcard/assets/108439890/1762533d-0af4-4359-9fe7-d5bff34ca0f5)
 
