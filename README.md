@@ -80,6 +80,4 @@
 
 <h3> 📱 Mobile</h3>
 
-
-![mobile (1)](https://github.com/talitaribeirovic/expadingcard/assets/108439890/1762533d-0af4-4359-9fe7-d5bff34ca0f5)
-
+![mobile (2)](https://github.com/talitaribeirovic/expadingcard/assets/108439890/458a0272-89e1-4fbf-99fa-52611c6a503a)
