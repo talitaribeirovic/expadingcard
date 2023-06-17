@@ -2,7 +2,7 @@
 
 ##### Olá, rede!🚀
 
-<p> Aprovetei o dia para aprender SASS. O projeto tem como base introdução ao básico de SASS.</p>
+<p> Aprovetei o dia para praticar JavaScript.</p>
 
 |  #  | Project                                                                                                                     | Status                                                                        |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
